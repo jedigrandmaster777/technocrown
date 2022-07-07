@@ -1,0 +1,2 @@
+var foto = new Foto();
+
